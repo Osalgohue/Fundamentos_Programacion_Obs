@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "540148a16340830d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9393d29bcdd47acf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b6b368498eee2f7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b93caf4627cf579",
+    "type": "split",
+    "children": [
+      {
+        "id": "8184029bd2cc56ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d45dfe1d8ff329d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b7f178c7c152fb0f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "570bee2582d7b8af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "521a1f13f3fed4e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c6df9e735613e42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d76013ac798eeccd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ab688f032267097e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a4e26205489e04a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3bc388f7a6a0473b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "795840dc32cb902c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "5b6b368498eee2f7",
+  "lastOpenFiles": [
+    "Fundamentos_de_Programacion/Modulo_1.md",
+    "Excalidraw/Clasificacion de Codigo.md",
+    "Fundamentos_de_Programacion/FundamentosDeProgramacion/Unidad4/Ejercicio43.py",
+    "Fundamentos_de_Programacion/FundamentosDeProgramacion/Unidad4/Ejercicio42.py",
+    "Fundamentos_de_Programacion/FundamentosDeProgramacion/Unidad4/Ejercicio41.py",
+    "Fundamentos_de_Programacion/FundamentosDeProgramacion/Unidad4",
+    "Fundamentos_de_Programacion/FundamentosDeProgramacion/Unidad3/sdkFP/__pycache__/__init__.cpython-313.pyc",
+    "Fundamentos_de_Programacion/FundamentosDeProgramacion/Unidad3/sdkFP/__pycache__/Guardar.cpython-313.pyc",
+    "Fundamentos_de_Programacion/FundamentosDeProgramacion/Unidad3/sdkFP/__pycache__/Consultar.cpython-313.pyc",
+    "Fundamentos_de_Programacion/FundamentosDeProgramacion/Unidad3/sdkFP/__pycache__",
+    "Fundamentos_de_Programacion/FundamentosDeProgramacion/Unidad3/sdkFP/__init__.py",
+    "Fundamentos_de_Programacion/FundamentosDeProgramacion/Unidad3/sdkFP/Guardar.py",
+    "Fundamentos_de_Programacion/FundamentosDeProgramacion/README.md",
+    "Fundamentos_de_Programacion/Hub.md",
+    "Welcome.md",
+    "Untitled.canvas"
+  ]
+}
