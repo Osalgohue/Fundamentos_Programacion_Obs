@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9393d29bcdd47acf",
+        "id": "55e16382a1cb709a",
         "type": "tabs",
         "children": [
           {
-            "id": "5b6b368498eee2f7",
+            "id": "f5afaf35af485d26",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -167,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,8 +183,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5b6b368498eee2f7",
+  "active": "d45dfe1d8ff329d2",
   "lastOpenFiles": [
+    "Fundamentos_de_Programacion/FundamentosDeProgramacion/Unidad1/C/Datos.c~",
     "Fundamentos_de_Programacion/Modulo_1.md",
     "Excalidraw/Clasificacion de Codigo.md",
     "Fundamentos_de_Programacion/FundamentosDeProgramacion/Unidad4/Ejercicio43.py",
