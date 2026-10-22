@@ -6,4 +6,6 @@ Medio:    C
 Bajo:     [Emblador]
 
 Clasificacion de lenguajes de programacion con base a su nivel
-[Clasificacion_de_codigo_Draw]
+
+![[Clasificacion de Codigo]]
+

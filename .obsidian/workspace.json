@@ -11,10 +11,14 @@
             "id": "f5afaf35af485d26",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentos_de_Programacion/Examen_1/Ejercicios del examen.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ejercicios del examen"
             }
           }
         ]
@@ -79,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 208.109375
   },
   "right": {
     "id": "521a1f13f3fed4e3",
@@ -180,26 +184,30 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "drawio:Launch draw.io editor": false
     }
   },
-  "active": "d45dfe1d8ff329d2",
+  "active": "f5afaf35af485d26",
   "lastOpenFiles": [
-    "Fundamentos_de_Programacion/FundamentosDeProgramacion/Unidad1/C/Datos.c~",
-    "Fundamentos_de_Programacion/Modulo_1.md",
-    "Excalidraw/Clasificacion de Codigo.md",
-    "Fundamentos_de_Programacion/FundamentosDeProgramacion/Unidad4/Ejercicio43.py",
-    "Fundamentos_de_Programacion/FundamentosDeProgramacion/Unidad4/Ejercicio42.py",
-    "Fundamentos_de_Programacion/FundamentosDeProgramacion/Unidad4/Ejercicio41.py",
-    "Fundamentos_de_Programacion/FundamentosDeProgramacion/Unidad4",
-    "Fundamentos_de_Programacion/FundamentosDeProgramacion/Unidad3/sdkFP/__pycache__/__init__.cpython-313.pyc",
-    "Fundamentos_de_Programacion/FundamentosDeProgramacion/Unidad3/sdkFP/__pycache__/Guardar.cpython-313.pyc",
-    "Fundamentos_de_Programacion/FundamentosDeProgramacion/Unidad3/sdkFP/__pycache__/Consultar.cpython-313.pyc",
-    "Fundamentos_de_Programacion/FundamentosDeProgramacion/Unidad3/sdkFP/__pycache__",
-    "Fundamentos_de_Programacion/FundamentosDeProgramacion/Unidad3/sdkFP/__init__.py",
-    "Fundamentos_de_Programacion/FundamentosDeProgramacion/Unidad3/sdkFP/Guardar.py",
-    "Fundamentos_de_Programacion/FundamentosDeProgramacion/README.md",
+    "Pasted image 20261021183054.png",
     "Fundamentos_de_Programacion/Hub.md",
+    "Fundamentos_de_Programacion/Examen_1/Ejercicios del examen.md",
+    "Fundamentos_de_Programacion/Examen_1/Drawing 2026-10-21 18.29.00.excalidraw.md",
+    "Fundamentos_de_Programacion/Examen_1/Untitled.drawio.md",
+    "Fundamentos_de_Programacion/Examen_1/Untitled.drawio",
+    "Fundamentos_de_Programacion/Modulo_1.md",
+    "Fundamentos_de_Programacion/Examen_1",
+    "Fundamentos_de_Programacion/Untitled",
+    "Excalidraw/Clasificacion de Codigo.md",
+    "Fundamentos_de_Programacion/Hub.md~",
+    "FundamentosDeProgramacion/Unidad3/sdkFP/__pycache__/__init__.cpython-313.pyc",
+    "FundamentosDeProgramacion/Unidad3/sdkFP/__pycache__/Guardar.cpython-313.pyc",
+    "FundamentosDeProgramacion/Unidad3/sdkFP/__pycache__/Consultar.cpython-313.pyc",
+    "FundamentosDeProgramacion/Unidad3/sdkFP/__pycache__",
+    "FundamentosDeProgramacion/Unidad3/sdkFP/__init__.py",
+    "FundamentosDeProgramacion/Unidad3/sdkFP/Guardar.py",
+    "Fundamentos_de_Programacion/FundamentosDeProgramacion/README.md",
     "Welcome.md",
     "Untitled.canvas"
   ]
