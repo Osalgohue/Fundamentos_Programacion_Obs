@@ -1,4 +1,3 @@
-## NIVELES DE PROGRAMACION
 
 Muy alto: IA's
 Alto:     Python
