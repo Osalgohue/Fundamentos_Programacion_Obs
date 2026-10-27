@@ -2,9 +2,8 @@
 Muy alto: IA's
 Alto:     Python
 Medio:    C
-Bajo:     [Emblador]
+Bajo:     Emblador
 
 Clasificacion de lenguajes de programacion con base a su nivel
 
 ![[Clasificacion de Codigo]]
-
