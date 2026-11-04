@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "5288c3bf4b44022f",
+            "id": "285f9d5fba4a2234",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentos_de_Programacion/Presentacion_SQL.md",
-                "mode": "preview",
+                "file": "Fundamentos_de_Programacion/Programacion_Orientada_a_Objetos.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Presentacion_SQL"
+              "title": "Programacion_Orientada_a_Objetos"
             }
           }
         ],
@@ -214,10 +214,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d45dfe1d8ff329d2",
+  "active": "285f9d5fba4a2234",
   "lastOpenFiles": [
-    "Fundamentos_de_Programacion/Presentacion_SQL.md",
+    "Imagenes/Clases_Objetos.drawio.pdf",
+    "Imagenes/Pasted image 20261028181454.png",
+    "Fundamentos_de_Programacion/Programacion_Orientada_a_Objetos.md",
     "Fundamentos_de_Programacion/MAIN HUB.md",
+    "Fundamentos_de_Programacion/Presentacion_SQL.md",
     "Fundamentos_de_Programacion/PHP Vulnerability 2026.md",
     "Fundamentos_de_Programacion/Iterative.md",
     "Fundamentos_de_Programacion/NIVELES DE PROGRAMACION.md",
