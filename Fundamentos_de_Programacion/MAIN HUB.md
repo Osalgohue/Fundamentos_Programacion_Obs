@@ -12,6 +12,7 @@
 [[PHP Vulnerability 2026]]
 [[Iterative]]
 [[Programacion_Orientada_a_Objetos]]
+[[Caracteristicas_de_la_POO]]
 
 [[Presentacion_SQL]]
 ### About:
