@@ -7,13 +7,23 @@
 | **Repo con programas** | 20%            |
 | **Tareas**             | 30%            |
 
-### Temas:
+### Unidad2
+#### Actividades De Clase
+[[Caracteristicas_de_la_POO]]
+[[Iterative]]
 [[NIVELES DE PROGRAMACION]]
 [[PHP Vulnerability 2026]]
-[[Iterative]]
 [[Programacion_Orientada_a_Objetos]]
-[[Caracteristicas_de_la_POO]]
 
+#### Tareas
+[[Ejercicios del examen]]
 [[Presentacion_SQL]]
-### About:
+
+### Unidad3
+#### Actividades En Clase
+
+#### Tareas
+
+
+###
 ![[README]]
