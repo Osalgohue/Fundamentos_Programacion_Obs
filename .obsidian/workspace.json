@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentos_de_Programacion/MAIN HUB.md",
+                "file": "Fundamentos_de_Programacion/Examen_1/Ejercicios del examen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MAIN HUB"
+              "title": "Ejercicios del examen"
             }
           }
         ]
@@ -199,8 +199,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e47acfe57e3a9bf4",
+  "active": "d45dfe1d8ff329d2",
   "lastOpenFiles": [
+    "Untitled Diagram.drawio 1.png",
+    "Fundamentos_de_Programacion/Examen_1/Ejercicios del examen.md",
+    "Imagenes/Untitled Diagram.drawio.png",
+    "Fundamentos_de_Programacion/Unidad2/ActividadesEnClase/MAIN HUB.md",
     "Fundamentos_de_Programacion/Caracteristicas_de_la_POO.md",
     "Prof_Repo/Unidad1/C/Hola.c~",
     "Prof_Repo/Unidad1/Py/R_Cuadrada.py~",
@@ -216,7 +220,6 @@
     "Fundamentos_de_Programacion/PHP Vulnerability 2026.md",
     "Fundamentos_de_Programacion/NIVELES DE PROGRAMACION.md",
     "Excalidraw/Clasificacion de Codigo.md",
-    "Fundamentos_de_Programacion/Examen_1/Ejercicios del examen.md",
     "DrawIo/index.html.md",
     "Fundamentos_de_Programacion/Examen_1/Untitled.md",
     "DrawIo",
