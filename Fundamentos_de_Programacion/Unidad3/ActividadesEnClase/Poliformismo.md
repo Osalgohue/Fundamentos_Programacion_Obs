@@ -1,0 +1,1 @@
+El **poliformismo** (o polimorfismo, del griego _poli_ = muchas y _morfo_ = formas) describe la capacidad de algo para adoptar distintas formas según el contexto o el área de estudio.

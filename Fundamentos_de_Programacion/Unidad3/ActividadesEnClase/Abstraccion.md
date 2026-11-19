@@ -1,0 +1,1 @@
+La **abstracción** en programación es el proceso de ocultar los detalles complejos de un sistema detrás de una interfaz más sencilla, permitiendo trabajar con conceptos o funcionalidades sin necesidad de conocer su lógica interna.

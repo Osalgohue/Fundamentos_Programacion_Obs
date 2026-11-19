@@ -1,0 +1,1 @@
+Consiste en **agrupar los datos** (atributos) y el **código que opera sobre ellos** (métodos) dentro de una misma estructura (la clase), ocultando el estado interno del objeto al mundo exterior
