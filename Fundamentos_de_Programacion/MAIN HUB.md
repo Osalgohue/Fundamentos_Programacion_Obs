@@ -22,7 +22,9 @@
 ### Unidad3
 #### Actividades En Clase
 [[POO]]
+[[Declaracion_de_Variables]]
 #### Tareas
+[[Tarea_orsmthidk]]
 
 
 ###

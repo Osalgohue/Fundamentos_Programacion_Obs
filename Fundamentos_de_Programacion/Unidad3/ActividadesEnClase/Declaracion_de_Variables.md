@@ -1,0 +1,10 @@
+- No pueden usar palabras reservadas
+	- **Values:** `False`, `None`, `True`
+	- **Boolean & logic:** `and`, `or`, `not`, `is`, `in`
+	- **Conditionals:** `if`, `elif`, `else`
+	- **Loops & flow:** `for`, `while`, `break`, `continue`, `pass`
+	- **Functions & classes:** `def`, `return`, `yield`, `lambda`, `class`, `async`, `await`
+	- **Exceptions & context:** `try`, `except`, `finally`, `raise`, `assert`, `with`
+	- **Modules & scope:** `import`, `from`, `as`, `global`, `nonlocal`,
+- No puede iniciar con numeros
+- No puede usar guion
