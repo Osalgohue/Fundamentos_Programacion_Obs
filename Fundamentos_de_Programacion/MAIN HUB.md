@@ -23,6 +23,7 @@
 #### Actividades En Clase
 [[POO]]
 [[Declaracion_de_Variables]]
+[[Estructuras_de_control]]
 #### Tareas
 [[Tarea_orsmthidk]]
 
